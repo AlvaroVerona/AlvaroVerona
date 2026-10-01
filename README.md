@@ -18,8 +18,6 @@ modelar el riesgo, optimizar con restricciones reales y poner el resultado en un
 pueda usar. Vengo de finanzas corporativas, farmacéutica y consumo, y he automatizado facturación,
 inventario, compras y reporte financiero para pequeños negocios de restauración y comercio.
 
-**Busco** un puesto de consultoría de Data & AI, analítica o transformación financiera en Madrid
-(modalidad híbrida): consultoras, banca o farmacéutica.
 
 ### Proyectos
 
