@@ -11,7 +11,7 @@
 
 ---
 
-## 🇪🇸 Español
+## Español
 
 Convierto datos financieros y operativos en decisiones: desde validar que los datos son fiables hasta
 modelar el riesgo, optimizar con restricciones reales y poner el resultado en un panel que un directivo
@@ -52,7 +52,7 @@ Finanzas: OneStream · Hyperion · SAP
 
 ---
 
-## 🇬🇧 English
+## English
 
 I turn financial and operational data into decisions: from checking that the data can be trusted, to
 modelling risk, optimising under real constraints, and putting the result in a dashboard an executive can
