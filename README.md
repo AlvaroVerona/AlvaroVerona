@@ -57,8 +57,6 @@ modelling risk, optimising under real constraints, and putting the result in a d
 use. My background is corporate finance, pharma and consumer goods, and I have automated billing,
 inventory, purchasing and financial reporting for small restaurants and shops.
 
-**Looking for** a Data & AI consulting, analytics or finance-transformation role in Madrid (hybrid):
-consultancies, banking or pharma.
 
 ### Projects
 
