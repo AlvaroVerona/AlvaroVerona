@@ -1,4 +1,4 @@
-<h1 align="center">Álvaro Verona</h1>
+<h1 align="center">Alvaro Verona</h1>
 
 <p align="center">
   <b>Consultor de Datos e IA con perfil financiero · Madrid</b><br>
